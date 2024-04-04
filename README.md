@@ -18,4 +18,4 @@ python-dateutil=2.8.2 // maybe?
 
 Thank you and Happy Job Hunting!
 
-*~May the odds be in your favour~*
+*May the odds be in your favour~~*

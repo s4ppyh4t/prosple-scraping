@@ -1,5 +1,7 @@
 ### Selenium on Python: Web Scraping Prosple Australia
 
+![[Scraping Output Preview]](scraping-output-preview.png)]
+
 I'm attempting to generate a repository of job data for fellow 485 Visa holders and International Students in Australia who are looking for graduate jobs.
 
 It is **VERY** barebone, but have a look at it:
@@ -15,6 +17,8 @@ webdriver-manager=4.0.1=pypi_0  //if you don't want to install the browser drive
 pandas=2.2.1
 python-dateutil=2.8.2 // maybe?
 ```
+
+05/04/2024 Export can be found in *Releases* or at a shared [Google Sheets sheet](https://docs.google.com/spreadsheets/d/1H0tS18Z9MoDLWJrzFrewn-RRKWKG-AqXB3DNz0uu2xg/edit?usp=sharing)
 
 Thank you and Happy Job Hunting!
 

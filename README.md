@@ -1,6 +1,6 @@
 ### Selenium on Python: Web Scraping Prosple Australia
 
-![[Scraping Output Preview]](scraping-output-preview.png)]
+![[Scraping Output Preview]](scraping-output-preview.png)
 
 I'm attempting to generate a repository of job data for fellow 485 Visa holders and International Students in Australia who are looking for graduate jobs.
 
